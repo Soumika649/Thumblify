@@ -40,9 +40,11 @@ With Thumblify, users can:
 
 ---
 
-## 📹 Demo
+## 📹 Demo Video
 
-[![Watch Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo%20Video-Click%20Here-blue?style=for-the-badge)](https://github.com/Soumika649/Thumblify/raw/main/Thumblify%20Demo%20video.mp4)
+Click the link below to watch a demo of Thumblify in action:
+
+[![Demo Video](https://img.shields.io/badge/▶️%20Watch%20Demo%20Video-blue?style=for-the-badge&logo=github)](https://github.com/Soumika649/Thumblify/raw/main/Thumblify%20Demo%20video.mp4)
 
 ---
 
