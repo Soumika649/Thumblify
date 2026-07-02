@@ -40,6 +40,17 @@ With Thumblify, users can:
 
 ---
 
+## 📹 Demo
+
+Watch Thumblify in action:
+
+<video width="100%" controls>
+  <source src="https://github.com/Soumika649/Thumblify/raw/main/Thumblify%20Demo%20video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -72,4 +83,3 @@ With Thumblify, users can:
 - Deployment & version control
 
 ---
-
